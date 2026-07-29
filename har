@@ -1,0 +1,40 @@
+<!-- HEADER BANNER -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshith-MN/Harshith-MN/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshith-MN/Harshith-MN/main/light.svg">
+    <img alt="Harshith M N - VAPT Analyst & Cybersecurity Specialist" src="https://raw.githubusercontent.com/Harshith-MN/Harshith-MN/main/light.svg">
+  </picture>
+</div>
+
+<br/>
+
+<!-- SOCIAL & CONTACT BADGES -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/harshith-mn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mnharshith396@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/HarshithMN">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-22D3EE?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0A101F" alt="TryHackMe" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### 🛡️ About Me
+
+```text
+=====================================================================================
+[+] Name       : Harshith M N
+[+] Role       : Junior Offensive Security Analyst & VAPT Enthusiast
+[+] Focus      : Vulnerability Assessment, Web Pentesting & Privilege Escalation
+[+] Background : B.E. in Electrical & Electronics Engineering (VVIET, 2024)
+[+] Status     : Pursuing CEH v13 | Open for Red Team & VAPT Roles
+=====================================================================================
